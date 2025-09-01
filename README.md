@@ -1,3 +1,1 @@
 # logicleap
-manufacturing
-
